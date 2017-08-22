@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Akka Bridge
-permalink: /patterns/HelloWorld/
+permalink: /akka/HelloWorld/
 tag: pattern
 ---
 
