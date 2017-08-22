@@ -18,7 +18,7 @@ environment.
 The *onReceive* method is message handler and will be invoked when message is send to *HelloWorldActor*.
 In our case *onReceive* method will implement simple logic which counts the number of the messages and prints the "Hello World" message.
 
-```Java
+```java
 public class HelloWorldActor extends UntypedAbstractActor {
 
   private int count = 0;
