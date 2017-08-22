@@ -43,7 +43,7 @@ and then we can send a message to the *HelloWorldActor*:
 
 `helloWorldActorRef.tell("Hello World", null);`
 
-```Java
+```java
 public class Main {
 
   public static void main(String[] args) {
