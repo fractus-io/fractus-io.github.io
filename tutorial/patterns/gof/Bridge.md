@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bridge
-permalink: /patterns/Hello/
+permalink: /patterns/HelloWorld/
 tag: pattern
 ---
 
