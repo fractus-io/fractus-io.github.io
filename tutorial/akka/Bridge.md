@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bridge
+title: Akka Bridge
 permalink: /patterns/HelloWorld/
 tag: pattern
 ---
