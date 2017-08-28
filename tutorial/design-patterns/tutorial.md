@@ -7,6 +7,12 @@ tags: design patterns
 
 Table of context
 
+* [Singleton](#Singleton)
+
+
+##  <a id="Singleton"></a>Singleton 
+
+###  <a id="Story"></a>Story 
 
 * [Story](#Story)
 * [Image](#Image)
