@@ -9,6 +9,7 @@ Table of context
 
 * [Singleton](#Singleton)
 * [Prototype](#Prototype)
+* [Prototype](/Adapter)
 
 
 ##  <a id="Singleton"></a>Singleton 
