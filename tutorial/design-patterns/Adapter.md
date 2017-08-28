@@ -2,6 +2,7 @@
 layout: page
 title: Adapter
 permalink: /Adapter/
+path: /xxxx/
 tag: pattern
 ---
 
