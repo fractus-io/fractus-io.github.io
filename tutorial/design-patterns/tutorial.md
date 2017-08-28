@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Patterns Tutorial
-permalink: /design-patterns/
+permalink: /tutorials/design-patterns/
 tags: design patterns
 ---
 
