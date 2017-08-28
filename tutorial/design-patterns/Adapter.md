@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dppage
 title: Adapter
 permalink: /Adapter/
 path: /xxxx/
