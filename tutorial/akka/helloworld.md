@@ -2,7 +2,8 @@
 layout: page
 title: Akka Hello World
 permalink: /tutorials/akka/helloworld/
-tag: pattern
+path: /tutorials/akka/
+tag: akka, helloworld
 ---
 
 ### Creating a "Hello World" actor example
