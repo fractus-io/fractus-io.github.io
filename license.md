@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: License
 permalink: /license/
+path: /tutorials/
 tags: license
 ---
 
