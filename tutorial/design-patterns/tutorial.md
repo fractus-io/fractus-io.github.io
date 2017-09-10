@@ -7,4 +7,4 @@ tags: design patterns
 
 Table of context
 
-* [Adapter](/Adapter)
+* [Adapter](/tutorials/design-patterns/Adapter)
