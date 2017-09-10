@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorialpage
 title: Akka Hello World
 permalink: /tutorials/akka/helloworld/
 path: /tutorials/akka/
