@@ -7,7 +7,7 @@ tags: license
 
 The MIT License
 
-Copyright (c) 2017 Fractus IT d.o.o. [http://fractus.io]
+Copyright (c) 2017 Fractus IT d.o.o. [fractus.io](http://fractus.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
