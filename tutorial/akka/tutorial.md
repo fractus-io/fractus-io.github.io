@@ -9,4 +9,5 @@ Table of context
 
 * [Introduction](/tutorials/akka/introduction)
 * [Hello World](/tutorials/akka/helloworld)
+* [Appendix A: Copyright and License](/license/)
 
