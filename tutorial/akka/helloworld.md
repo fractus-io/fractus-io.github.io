@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Akka Hello World
-permalink: /akka/HelloWorld/
+permalink: /tutorials/akka/helloworld/
 tag: pattern
 ---
 
