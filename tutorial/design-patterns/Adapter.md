@@ -2,7 +2,7 @@
 layout: dppage
 title: Adapter
 permalink: /Adapter/
-path: /xxxx/
+path: /tutorials/design-patterns/
 tag: pattern
 ---
 
