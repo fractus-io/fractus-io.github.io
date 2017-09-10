@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
-tags: about
+title: Tutorials
+permalink: /tutorials/
+tags: tutorial
 ---
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
