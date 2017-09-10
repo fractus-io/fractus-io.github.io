@@ -1,7 +1,7 @@
 ---
 layout: dppage
 title: Adapter
-permalink: /Adapter/
+permalink: /tutorials/design-patterns/Adapter/
 path: /tutorials/design-patterns/
 tag: pattern
 ---
