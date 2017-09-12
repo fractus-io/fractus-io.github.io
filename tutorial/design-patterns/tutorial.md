@@ -8,4 +8,4 @@ tags: design patterns
 Table of context
 
 * [Adapter](/tutorials/design-patterns/Adapter)
-* [Appendix A: Copyright and License](/license/)
+* [Appendix A: Copyright and License](/tutorials/design-patterns/license/)

@@ -1,8 +1,8 @@
 ---
 layout: tutorialpage
 title: License
-permalink: /license/
-path: /tutorials/
+permalink: /tutorials/design-patterns/license/
+path: /tutorials/design-patterns/
 tags: license
 ---
 
