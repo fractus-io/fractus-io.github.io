@@ -7,5 +7,6 @@ tags: design patterns
 
 Table of context
 
-* [Adapter](/tutorials/design-patterns/Adapter)
+* [Introduction](/tutorials/design-patterns/introduction)
+	* [Adapter](/tutorials/design-patterns/Adapter)
 * [Appendix A: Copyright and License](/tutorials/design-patterns/license/)
