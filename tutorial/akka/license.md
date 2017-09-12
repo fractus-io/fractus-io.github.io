@@ -1,8 +1,8 @@
 ---
 layout: tutorialpage
 title: License
-permalink: /akka/design-patterns/license/
-path: /akka/design-patterns/
+permalink: /tutorials/akka/license/
+path: /tutorials/akka/
 tags: license
 ---
 
