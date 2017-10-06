@@ -1,7 +1,7 @@
 ---
 layout: tutorialpage
 title: Singleton
-permalink: /tutorials/design-patterns/license/
+permalink: /tutorials/design-patterns/singleton/
 path: /tutorials/design-patterns/
 tags: singleton
 ---
