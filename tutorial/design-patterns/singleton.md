@@ -1,9 +1,9 @@
 ---
 layout: tutorialpage
 title: Singleton
-permalink: /tutorials/design-patterns/singleton/
+permalink: /tutorials/design-patterns/Singleton/
 path: /tutorials/design-patterns/
-tags: singleton
+tags: Singleton
 ---
 
 * [Story](#Story)

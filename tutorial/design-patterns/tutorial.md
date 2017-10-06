@@ -9,7 +9,7 @@ Table of context
 
 * [Introduction](/tutorials/design-patterns/introduction)
 #### Creational Patterns
-* [Singleton](/tutorials/design-patterns/singleton)
+* [Singleton](/tutorials/design-patterns/Singleton)
 * [Prototype](/tutorials/design-patterns/Prototype)
 * [Builder](/tutorials/design-patterns/Builder)
 * [Factory Method](/tutorials/design-patterns/FactoryMethod)
