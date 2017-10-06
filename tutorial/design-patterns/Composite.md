@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Composite
 permalink: /tutorials/design-patterns/Composite/
+path: /tutorials/design-patterns/
 tags: Composite
 ---
 

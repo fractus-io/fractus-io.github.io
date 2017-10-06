@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Adapter
 permalink: /tutorials/design-patterns/Adapter/
+path: /tutorials/design-patterns/
 tags: Adapter
 ---
 

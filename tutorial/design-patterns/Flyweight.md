@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Flyweight
 permalink: /tutorials/design-patterns/Flyweight/
+path: /tutorials/design-patterns/
 tags: Flyweight
 ---
 

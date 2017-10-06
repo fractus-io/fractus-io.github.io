@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Facade
 permalink: /tutorials/design-patterns/Facade/
+path: /tutorials/design-patterns/
 tags: Facade
 ---
 

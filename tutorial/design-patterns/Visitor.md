@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Visitor
 permalink: /tutorials/design-patterns/Visitor/
+path: /tutorials/design-patterns/
 tags: Visitor
 ---
 

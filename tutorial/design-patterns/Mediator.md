@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Mediator
 permalink: /tutorials/design-patterns/Mediator/
+path: /tutorials/design-patterns/
 tags: Mediator
 ---
 

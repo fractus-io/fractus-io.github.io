@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Iterator
 permalink: /tutorials/design-patterns/Iterator/
+path: /tutorials/design-patterns/
 tags: Iterator
 ---
 

@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: State
 permalink: /tutorials/design-patterns/State/
+path: /tutorials/design-patterns/
 tags: State
 ---
 

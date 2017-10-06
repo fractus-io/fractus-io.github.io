@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Chain Of Responsibility
 permalink: /tutorials/design-patterns/ChainOfResponsibility/
+path: /tutorials/design-patterns/
 tags: ChainOfResponsibility
 ---
 

@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Memento
 permalink: /tutorials/design-patterns/Memento/
+path: /tutorials/design-patterns/
 tags: Memento
 ---
 

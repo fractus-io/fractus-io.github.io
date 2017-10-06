@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Template Method
 permalink: /tutorials/design-patterns/TemplateMethod/
+path: /tutorials/design-patterns/
 tags: TemplateMethod
 ---
 

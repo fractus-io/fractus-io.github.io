@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Command
 permalink: /tutorials/design-patterns/Command/
+path: /tutorials/design-patterns/
 tags: Command
 ---
 

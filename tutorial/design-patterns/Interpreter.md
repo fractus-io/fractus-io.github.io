@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Interpreter
 permalink: /tutorials/design-patterns/Interpreter/
+path: /tutorials/design-patterns/
 tags: Interpreter
 ---
 

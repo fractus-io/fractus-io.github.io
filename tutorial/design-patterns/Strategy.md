@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Strategy
 permalink: /tutorials/design-patterns/Strategy/
+path: /tutorials/design-patterns/
 tags: Strategy
 ---
 

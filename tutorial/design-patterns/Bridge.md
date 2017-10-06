@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Bridge
 permalink: /tutorials/design-patterns/Bridge/
+path: /tutorials/design-patterns/
 tags: Bridge
 ---
 

@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Proxy
 permalink: /tutorials/design-patterns/Proxy/
+path: /tutorials/design-patterns/
 tags: Proxy
 ---
 

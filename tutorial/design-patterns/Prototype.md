@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Prototype
 permalink: /tutorials/design-patterns/Prototype/
+path: /tutorials/design-patterns/
 tags: Prototype
 ---
 

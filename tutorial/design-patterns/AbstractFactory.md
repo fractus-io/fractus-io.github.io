@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Abstract Factory
 permalink: /tutorials/design-patterns/AbstractFactory/
+path: /tutorials/design-patterns/
 tags: AbstractFactory
 ---
 

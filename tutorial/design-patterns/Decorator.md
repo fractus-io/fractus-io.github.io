@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Decorator
 permalink: /tutorials/design-patterns/Decorator/
+path: /tutorials/design-patterns/
 tags: Decorator
 ---
 

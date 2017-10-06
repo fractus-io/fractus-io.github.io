@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Observer
 permalink: /tutorials/design-patterns/Observer/
+path: /tutorials/design-patterns/
 tags: Observer
 ---
 

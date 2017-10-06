@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Factory Method
 permalink: /tutorials/design-patterns/FactoryMethod/
+path: /tutorials/design-patterns/
 tags: FactoryMethod
 ---
 

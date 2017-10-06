@@ -2,6 +2,7 @@
 layout: tutorialpage
 title: Builder
 permalink: /tutorials/design-patterns/Builder/
+path: /tutorials/design-patterns/
 tags: Builder
 ---
 
