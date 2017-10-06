@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Flyweight
-permalink: /patterns/Flyweight/
-tag: pattern
+permalink: /tutorials/design-patterns/Flyweight/
+tags: Flyweight
 ---
 
 * [Story](#Story)

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Bridge
-permalink: /patterns/Bridge/
-tag: pattern
+permalink: /tutorials/design-patterns/Bridge/
+tags: Bridge
 ---
 
 * [Story](#Story)

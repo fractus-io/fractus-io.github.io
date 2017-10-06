@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: State
-permalink: /patterns/State/
-tag: pattern
+permalink: /tutorials/design-patterns/State/
+tags: State
 ---
 
 * [Story](#Story)

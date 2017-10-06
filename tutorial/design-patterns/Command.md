@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Command
-permalink: /patterns/Command/
-tag: pattern
+permalink: /tutorials/design-patterns/Command/
+tags: Command
 ---
 
 * [Story](#Story)

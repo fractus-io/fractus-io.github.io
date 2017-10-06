@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Chain Of Responsibility
-permalink: /patterns/ChainOfResponsibility/
-tag: pattern
+permalink: /tutorials/design-patterns/ChainOfResponsibility/
+tags: ChainOfResponsibility
 ---
 
 * [Story](#Story)

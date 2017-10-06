@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Factory Method
-permalink: /patterns/FactoryMethod/
-tag: pattern
+permalink: /tutorials/design-patterns/FactoryMethod/
+tags: FactoryMethod
 ---
 
 * [Story](#Story)

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Strategy
-permalink: /patterns/Strategy/
-tag: pattern
+permalink: /tutorials/design-patterns/Strategy/
+tags: Strategy
 ---
 
 * [Story](#Story)

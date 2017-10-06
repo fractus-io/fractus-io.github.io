@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Visitor
-permalink: /patterns/Visitor/
-tag: pattern
+permalink: /tutorials/design-patterns/Visitor/
+tags: Visitor
 ---
 
 * [Story](#Story)

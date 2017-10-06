@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Memento
-permalink: /patterns/Memento/
-tag: pattern
+permalink: /tutorials/design-patterns/Memento/
+tags: Memento
 ---
 
 * [Story](#Story)

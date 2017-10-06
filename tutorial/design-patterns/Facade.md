@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Facade
-permalink: /patterns/Facade/
-tag: pattern
+permalink: /tutorials/design-patterns/Facade/
+tags: Facade
 ---
 
 * [Story](#Story)

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Observer
-permalink: /patterns/Observer/
-tag: pattern
+permalink: /tutorials/design-patterns/Observer/
+tags: Observer
 ---
 
 * [Story](#Story)

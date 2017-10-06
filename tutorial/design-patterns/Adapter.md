@@ -2,8 +2,7 @@
 layout: tutorialpage
 title: Adapter
 permalink: /tutorials/design-patterns/Adapter/
-path: /tutorials/design-patterns/
-tag: pattern
+tags: Adapter
 ---
 
 * [Story](#Story)

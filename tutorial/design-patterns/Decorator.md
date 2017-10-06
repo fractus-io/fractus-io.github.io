@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Decorator
-permalink: /patterns/Decorator/
-tag: pattern
+permalink: /tutorials/design-patterns/Decorator/
+tags: Decorator
 ---
 
 * [Story](#Story)

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Builder
-permalink: /patterns/Builder/
-tag: pattern
+permalink: /tutorials/design-patterns/Builder/
+tags: Builder
 ---
 
 * [Story](#Story)

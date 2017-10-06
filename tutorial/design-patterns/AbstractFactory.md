@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Abstract Factory
-permalink: /patterns/AbstractFactory/
-tag: pattern
+permalink: /tutorials/design-patterns/AbstractFactory/
+tags: AbstractFactory
 ---
 
 * [Story](#Story)

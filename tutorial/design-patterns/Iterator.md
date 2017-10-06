@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Iterator
-permalink: /patterns/Iterator/
-tag: pattern
+permalink: /tutorials/design-patterns/Iterator/
+tags: Iterator
 ---
 
 * [Story](#Story)

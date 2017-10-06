@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Interpreter
-permalink: /patterns/Interpreter/
-tag: pattern
+permalink: /tutorials/design-patterns/Interpreter/
+tags: Interpreter
 ---
 
 * [Story](#Story)

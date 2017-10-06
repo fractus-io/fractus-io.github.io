@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Prototype
-permalink: /patterns/Prototype/
-tag: pattern
+permalink: /tutorials/design-patterns/Prototype/
+tags: Prototype
 ---
 
 * [Story](#Story)

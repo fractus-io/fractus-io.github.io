@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Composite
-permalink: /patterns/Composite/
-tag: pattern
+permalink: /tutorials/design-patterns/Composite/
+tags: Composite
 ---
 
 * [Story](#Story)

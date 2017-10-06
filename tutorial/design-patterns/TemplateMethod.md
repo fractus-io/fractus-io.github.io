@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Template Method
-permalink: /patterns/TemplateMethod/
-tag: pattern
+permalink: /tutorials/design-patterns/TemplateMethod/
+tags: TemplateMethod
 ---
 
 * [Story](#Story)

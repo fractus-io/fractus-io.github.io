@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Mediator
-permalink: /patterns/Mediator/
-tag: pattern
+permalink: /tutorials/design-patterns/Mediator/
+tags: Mediator
 ---
 
 * [Story](#Story)

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: tutorialpage
 title: Proxy
-permalink: /patterns/Proxy/
-tag: pattern
+permalink: /tutorials/design-patterns/Proxy/
+tags: Proxy
 ---
 
 * [Story](#Story)
