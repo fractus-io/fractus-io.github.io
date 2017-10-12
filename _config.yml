@@ -1,15 +1,15 @@
 # Site settings
 title:       Fractus Tutorials
 email:       info@fractus.io
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      fractus.io
+description: "Fractus Tutorials Page."
 baseurl:     ""
 #url:         "http://pixyll.com"
 url:         "https://fractus-io.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  #- about.md
- - tutorials.md
+ #- tutorials.md
  - contact.html
 
 # Google services
