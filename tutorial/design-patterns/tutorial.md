@@ -5,7 +5,7 @@ permalink: /tutorials/design-patterns/
 tags: design patterns
 ---
 
-Table of context
+Table of Contents
 
 * [Introduction](/tutorials/design-patterns/introduction)
 #### Creational Patterns

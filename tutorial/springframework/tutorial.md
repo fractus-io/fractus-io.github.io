@@ -5,7 +5,7 @@ permalink: /tutorials/springframework/
 tags: springframework, spring
 ---
 
-Table of context
+Table of Contents
 
 * [Introduction](/tutorials/springframework/introduction)
 * [Appendix A: Copyright and License](/tutorials/springframework/license/)

@@ -5,7 +5,7 @@ permalink: /tutorials/akka/
 tags: akka
 ---
 
-Table of context
+Table of Contents
 
 * [Introduction](/tutorials/akka/introduction)
 * [Hello World](/tutorials/akka/helloworld)
