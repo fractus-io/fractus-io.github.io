@@ -36,8 +36,6 @@ which is frequently abbreviated as **"GoF"**.
 ###  <a id="Structure"></a>Structure
 
 Description of design patterns are composed of several sections: 
- 
-Of particular interest are the Structure, Participants, and Collaboration sections
 Pattern Name and Classification, Intent, Also Known As, Motivation (Forces),
 Applicability, Structure, Participants, Collaboration, Consequences, Implementation,
 Sample Code, Known Uses, Related Patterns.
@@ -58,7 +56,9 @@ If you are an intermediate or senior developer, and want to improve existing kno
 ###  <a id="SourceCode"></a>Source Code
 
 The full implementation of this tutorial can be found in the [Github Repo](https://github.com/dstar55/100-words-design-patterns-java).
-You must have installed Java, Maven & Git Client.
+You must have installed [Java](https://java.com/en/download/help/download_options.xml), 
+[Maven](https://maven.apache.org/install.html) & 
+[Git Client](https://www.linode.com/docs/development/version-control/how-to-install-git-on-mac-and-windows).
 
 Clone repo:
 
