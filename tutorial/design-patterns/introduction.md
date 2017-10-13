@@ -21,13 +21,16 @@ Design patterns are formalized best practices that the programmer can use to sol
 
 ###  <a id="History"></a>History 
 
-Patterns originated as an architectural concept by Christopher Alexander (1977/79). 
-In 1987, Kent Beck and Ward Cunningham began experimenting with the idea of applying patterns to programming – specifically pattern languages – and presented 
-their results at the OOPSLA conference that year.
+Patterns originated as an architectural concept by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) (1977/79). 
+In 1987, [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) 
+and [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) began experimenting with the idea of applying patterns to 
+programming – specifically pattern languages – and presented 
+their results at the [OOPSLA](https://en.wikipedia.org/wiki/OOPSLA) conference that year.
+
 In the following years, Beck, Cunningham and others followed up on this work.
 Design patterns gained popularity in computer science after the 
-book Design Patterns: Elements of Reusable Object-Oriented Software was published in 1994 by the so-called "Gang of Four" (Gamma et al.), 
-which is frequently abbreviated as "GoF". 
+book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns_(book)) was published in 1994 by the so-called *"Gang of Four"* (Gamma et al.), 
+which is frequently abbreviated as *"GoF"*. 
 
 ###  <a id="Structure"></a>Structure
 
