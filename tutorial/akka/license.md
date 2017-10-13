@@ -3,6 +3,7 @@ layout: tutorialpage
 title: License
 permalink: /tutorials/akka/license/
 path: /tutorials/akka/
+repo: https://github.com/fractus-io/akka-tutorial
 tags: license
 ---
 
