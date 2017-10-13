@@ -8,5 +8,7 @@ tags: springframework, spring
 
 Table of Contents
 
-* [Introduction](/tutorials/springframework/introduction)
+* [Introduction to Spring Framework](/tutorials/springframework/introduction)
+* [Dependency Injection Basics](/tutorials/springframework/dependency-injection-basics)
+* [Dependency Injection Advanced](/tutorials/springframework/dependency-injection-advanced)
 * [Appendix A: Copyright and License](/tutorials/springframework/license/)
