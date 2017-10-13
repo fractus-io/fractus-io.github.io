@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Factory Method
 permalink: /tutorials/design-patterns/FactoryMethod/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: FactoryMethod
 ---
 

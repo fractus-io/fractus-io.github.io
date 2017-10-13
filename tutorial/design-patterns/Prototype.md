@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Prototype
 permalink: /tutorials/design-patterns/Prototype/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Prototype
 ---
 

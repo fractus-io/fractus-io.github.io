@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Abstract Factory
 permalink: /tutorials/design-patterns/AbstractFactory/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: AbstractFactory
 ---
 

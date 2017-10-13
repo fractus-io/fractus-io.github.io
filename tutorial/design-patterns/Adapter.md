@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Adapter
 permalink: /tutorials/design-patterns/Adapter/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Adapter
 ---
 

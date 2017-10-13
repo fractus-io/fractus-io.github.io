@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Command
 permalink: /tutorials/design-patterns/Command/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Command
 ---
 

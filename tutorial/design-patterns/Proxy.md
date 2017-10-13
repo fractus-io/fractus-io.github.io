@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Proxy
 permalink: /tutorials/design-patterns/Proxy/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Proxy
 ---
 

@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Composite
 permalink: /tutorials/design-patterns/Composite/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Composite
 ---
 

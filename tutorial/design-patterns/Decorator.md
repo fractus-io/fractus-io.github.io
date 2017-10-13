@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Decorator
 permalink: /tutorials/design-patterns/Decorator/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Decorator
 ---
 

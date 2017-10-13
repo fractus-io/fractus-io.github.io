@@ -2,11 +2,12 @@
 layout: page
 title: Design Patterns Tutorial
 permalink: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: design patterns
 ---
 
 
-Table of Contents [Github Repo](https://github.com/dstar55/100-words-design-patterns-java)
+Table of Contents 
 
 * [Introduction](/tutorials/design-patterns/introduction)
 #### Creational Patterns

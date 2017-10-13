@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Builder
 permalink: /tutorials/design-patterns/Builder/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Builder
 ---
 

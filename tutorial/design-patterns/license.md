@@ -3,6 +3,7 @@ layout: tutorialpage
 title: License
 permalink: /tutorials/design-patterns/license/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: license
 ---
 

@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Flyweight
 permalink: /tutorials/design-patterns/Flyweight/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Flyweight
 ---
 

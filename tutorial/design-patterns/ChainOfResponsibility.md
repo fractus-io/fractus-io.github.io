@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Chain Of Responsibility
 permalink: /tutorials/design-patterns/ChainOfResponsibility/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: ChainOfResponsibility
 ---
 

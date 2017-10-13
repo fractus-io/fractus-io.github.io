@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Template Method
 permalink: /tutorials/design-patterns/TemplateMethod/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: TemplateMethod
 ---
 

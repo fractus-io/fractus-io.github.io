@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Memento
 permalink: /tutorials/design-patterns/Memento/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Memento
 ---
 

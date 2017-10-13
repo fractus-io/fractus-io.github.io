@@ -3,6 +3,7 @@ layout: tutorialpage
 title: Strategy
 permalink: /tutorials/design-patterns/Strategy/
 path: /tutorials/design-patterns/
+repo: https://github.com/dstar55/100-words-design-patterns-java
 tags: Strategy
 ---
 
