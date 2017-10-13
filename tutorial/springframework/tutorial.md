@@ -2,6 +2,7 @@
 layout: page
 title: Spring Framework Tutorial
 permalink: /tutorials/springframework/
+repo: https://github.com/fractus-io/spring-tutorial
 tags: springframework, spring
 ---
 

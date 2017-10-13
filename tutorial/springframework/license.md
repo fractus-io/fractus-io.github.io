@@ -3,6 +3,7 @@ layout: tutorialpage
 title: License
 permalink: /tutorials/springframework/license/
 path: /tutorials/springframework/
+repo: https://github.com/fractus-io/spring-tutorial
 tags: license
 ---
 
