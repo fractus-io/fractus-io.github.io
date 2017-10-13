@@ -78,4 +78,4 @@ Run Tests:
 $ mvn test
 ```
 
-Note: content of his tutorial is published as dedicated site [Design Patterns Stories](http://www.design-patterns-stories.com/)
+Note: content of his tutorial is published as dedicated site, [Design Patterns Stories](http://www.design-patterns-stories.com/)
