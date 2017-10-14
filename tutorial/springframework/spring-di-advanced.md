@@ -1,158 +1,226 @@
 ---
 layout: tutorialpage
 title: Introduction
-permalink: /tutorials/springframework/introduction/
+permalink: tutorials/springframework/dependency-injection-advanced
 path: /tutorials/springframework/
 repo: https://github.com/fractus-io/spring-tutorial
-tags: springframework
+tags: springframework, dependency injection
 ---
 
-### Introduction to Spring Framework
-
-Topics
-
-* Spring History
-* What is Spring
-* Why Spring 
-* Spring architecture
+### Dependency Injection Advanced
 
 ---
 
-### Spring History
-
-* Started 2002/2003 by Rod Johonson and Juergen Holler
-* Started as a framework developed around Rod Johnson&#39;s book [Expert One-on-One J2EE Design and Development](https://www.amazon.com/Expert-One-One-Design-Development/dp/0764543857)
-* Spring 1.0 Released March 2004
-* ...
-* Spring 4.2.0 Released July 2015
-
+#### Topics
+* Dependency Injection (DI)
+  * Bean Life Cycle Management
+  * ApplicationContext
 
 ---
 
-### What is Spring
+### Bean Life Cycle Management
 
-* Spring Framework is an open source light-weight application framework that aims to make J2EE developement eaisier.
-* Spring aims to help whole applications in a consistent and productive manner
-* Used for building Java SE & Java EE applications
+* beans can be constructed on a way that they receive notifications at certain points in their life cycles
+* enables your beans to perform relevant processing at certain points throughout their lives
+* two life cycle events 
+  * postinitialization 
+  * predestruction
+  
+---
 
+### Bean Life Cycle Management
+
+* postinitialization 
+  * after setting property values and after finising dependency checks
+* predestruction 
+  * before Spring destroys the bean instance
+* works only with singletons
 
 ---
 
-### What is Spring - Key Features
+### PostInitialization
 
-* JavaBeans-based configuration management, applying Inversion-of-Control principles, specifically using the Dependency Injection technique.
-* A core bean factory, which is usable globally
-* Generic abstraction layer for database transaction management
-* Built-in generic strategies for JTA and a single JDBC DataSource
+* specifying an Initialization Method
 
-
----
-
-### What is Spring - Key Features
-
-* Integration with persistence frameworks Hibernate, JDO and iBATIS
-* MVC web application framework, built on core Spring functionality, supporting many technologies for generating views, including JSP, FreeMarker, Velocity, Tiles, iText, and POI
-* Extensive aspect-oriented programming(AOP) 
-
-
----
-
-### Why Spring
-
-* Problems with Traditional Approach to J2EE ...
-  * The EJB component model is complex
-  * EJB is designed for distributed, transactional applications. While all non-trivial applications are transactional, distribution should not be built into basic component model
-  * J2EE applications are hard to unit test
+```Java
+public class InitDestroyBean {
+	...	
+	public void init(){	... }	
+	...
+	
+   // <bean id="initDestroyBean" class="...InitDestroyBean" 
+   //          init-method="init" destroy-method="destroy">
+   //    ...
+   // </bean>
+}
+```
 
 ---
 
-### Why Spring
+### PostInitialization
 
-* Responses to problems was tool support to catch up with J2EE specifications, e.g code generations tools
-* Spring aims to take away problems, by simplifying the programming model, rather than concealing complexity behind the complex layer of the tools
-* The essence of the Spring is in providing eneterpise sevices to Plain Old Java Object(POJOs). This is valuable in a J2EE enviroment, but application code delivered as POJOs is naturally resuable in variety or runtime enviroments
+* executing a Method When a Bean Is Destroyed
 
+```Java
+public class InitDestroyBean {
+	...
+	public void destroy(){ ... 	}
+	
+   // <bean id="initDestroyBean" class="...InitDestroyBean" 
+   //           init-method="init" destroy-method="destroy">
+   //    ...
+   // </bean>
+}
+```
+---
+
+### PostInitialization
+
+* implementing InitializingBean Interface
+
+```Java
+public class InitializingDisposableBean implements InitializingBean {
+	...
+	public void afterPropertiesSet(){ ... 	}
+	
+   // <bean id="initializingDisposableBean" 
+   //       class="...InitializingDisposableBean"> 
+   //  ...
+   // </bean>
+}
+```
 
 ---
 
-### Why Spring
+### PostInitialization
 
-* Wiring of components through Dependency Injection
-* Design to interfaces
-* Test-Driven Development (TDD)
-* POJO classes can be tested without being tied up with the framework
+* implementing DisposableBean Interface
 
-+++
-
-* Declarative programming through AOP
-  * Integration with other technologies
-  * EJB for J2EE
-  * Hibernate, iBatis, JDBC (for data access)
-  * Velocity (for presentation)
-  * Struts and WebWork (For web)
-
-
----
-
-### Overview of the Spring Framework
-
-* Inversion of Control container
-  * Dependecy Injection
-* Aspect-Oriented Programming(AOP) framework
-* Data Access abstracion
-* JDBC simplification
-
-+++
-
-* Transation Management
-* MVC web framework
-* Simplification for working with JNDI, JTA
-* Lightweight remoting
-* JMS support
-* Support for testing
+```Java
+public class InitializingDisposableBean implements DisposableBean {
+	...
+	public void destroy(){ ... 	}
+	
+   // <bean id="initializingDisposableBean" 
+   //       class="...initializingDisposableBean">
+   //    ...
+   // </bean>
+}
+```
 
 ---
 
-### Overview of the Spring Framework
+### Spring Aware Beans
 
-![](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/images/spring-overview.png.pagespeed.ce.XVe1noRCMt.png)
+* BeanNameAware makes the object aware of its bean name
 
-
----
-
-### Overview of the Spring Framework - Core Package
-
-* Core package is the most fundamental part of the framework and provides the IoC and Dependency Injection features
-* The basic concept here is the BeanFactory, which provides a sophisticated implementation of the factory pattern which removes the need for programmatic singletons and allows you to decouple the configuration and specification of dependencies from your actual program logic
-
-
----
-
-### Overview of the Spring Framework - DAO Package
-
-* The DAO package provides a JDBC-abstraction layer that removes the need to do tedious JDBC coding and parsing of database-vendor specific error codes
-* The JDBC package provides a way to do programmatic as well as declarative transaction management, not only for classes implementing special interfaces, but for all your POJOs (plain old Java objects)
-
+```Java
+public class BeanNameAwareBean implements BeanNameAware {
+	...
+	public void setBeanName(){ ... 	}
+	
+   // <bean id="beanNameAwareBean" 
+   //       class="...BeanNameAwareBean">
+   // </bean>
+}
+```
 
 ---
 
-### Overview of the Spring Framework - ORM Package
+### Spring Aware Beans
 
-* The ORM package provides integration layers for popular object-relational mapping APIs, including JPA, JDO, Hibernate, and iBatis.
-* Using the ORM package you can use all those O/R-mappers in combination with all the other features Spring offers, such as the simple declarative transaction management feature mentioned previously
+* BeanFactoryAware gives the bean access to the BeanFactory that created the bean
 
+```Java
+public class BeanFactoryAwareBean 
+             implements BeanFactoryAware {
+	...
+	public void setBeanFactory(){ ... 	}
+	
+   // <bean id="beanFactoryAwareBean" 
+   //       class="...BeanFactoryAwareBean">
+   // </bean>
+}
+```
 
 ---
 
-### Overview of the Spring Framework - AOP Package
+### Beans Factory Post Processing
 
-* Spring&#39;s AOP package provides an AOP Alliance-compliant aspect-oriented programming implementation allowing you to define, for example, method-interceptors and pointcuts to cleanly decouple code implementing functionality that should logically speaking be separated
-* Using source-level metadata functionality you can also incorporate all kinds of behavioral information into your code
+* provides a way for applications to modify their Spring context�s bean definitions before any beans get created 
 
+```Java
+public class BeanFactoryPostProcessorBean 
+             implements BeanFactoryPostProcessor {
+	...
+	public void postProcessBeanFactory(...){ ... 	}
+	
+   // <bean id="beanFactoryPostProcessorBean" 
+   //       class="...BeanFactoryPostProcessorBean">
+   // </bean>
+}
+```
 
 ---
 
-### Overview of the Spring Framework - MVC Package
+### Beans Post Processor
 
-* Spring&#39;s MVC package provides a Model-View-Controller (MVC) implementation for web applications
-* Spring&#39;s MVC framework is not just any old implementation; it provides a clean separation between domain model code and web forms, and allows you to use all the other features of the Spring Framework
+* perform additional processing immediately before and after Spring instantiates the bean
+  
+```Java
+public class MyBeanPostProcessor 
+             implements BeanPostProcessor {
+	...
+	public Object postProcessBeforeInitialization(...){ ... }
+	
+	public Object postProcessAfterInitialization(...){ ... }
+	
+   // <bean id="myBeanPostProcessor" 
+   //       class="...MyBeanPostProcessor">
+   // </bean>
+}
+```
+
+---
+
+### Application Context
+
+* extension of the BeanFactory interface
+* enables enterprise-specific features such as transactions and AOP
+* providing extra features over BeanFactory
+
+---
+
+### Application Context
+
+* features over BeanFactory
+  * additional life-cycle interfaces
+  * event propagation to beans implementing the ApplicationListener interface
+  * MessageSource, providing access to messages in, i18n-style
+  * access to resources, such as URLs and files
+  * loading of multiple (hierarchical) contexts
+
+  
+---
+
+### Application Context
+
+* when to use
+  * always use ApplicationContext over BeanFactory to take advantage of its extended functionality
+  * except for a few limited situations such as perhaps in an Applet, where memory consumption might be critical
+
+  
+---
+
+### Application Context
+
+* Usage
+  * ApplicationContext can be used in a declarative fashion(e.g. ContextLoader in J2EE webapp)
+  * can be created programmatically as well
+  
+```Java
+...
+ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationcontextaware-context.xml");
+...
+
+```
