@@ -10,6 +10,7 @@ Table of Contents
 
 * [Introduction](/tutorials/yeoman/introduction)
 * [Getting started](/tutorials/yeoman/getting-started)
+* [Basic scaffolding with JHipster](/tutorials/yeoman/basic-scaffolding)
 * [Appendix A: Copyright and License](/tutorials/yeoman/license/)
 
 
