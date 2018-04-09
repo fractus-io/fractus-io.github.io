@@ -1,9 +1,9 @@
 ---
 layout: tutorialpage
 title: License
-permalink: /tutorials/akka/license/
-path: /tutorials/akka/
-repo: https://github.com/fractus-io/akka-tutorial
+permalink: /tutorials/yeoman/license/
+path: /tutorials/yeoman/
+repo: https://github.com/fractus-io/yeoman-tutorial
 tags: license
 ---
 
