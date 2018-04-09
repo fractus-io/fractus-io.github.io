@@ -12,6 +12,7 @@ Table of Contents
 * [Getting started](/tutorials/yeoman/getting-started)
 * [Basic scaffolding with JHipster](/tutorials/yeoman/basic-scaffolding)
 * [Create custom generator](/tutorials/yeoman/create-custom-generator)
+* [Publishing Yeoman Generator](/tutorials/yeoman/publishing-yeoman-generator)
 * [Appendix A: Copyright and License](/tutorials/yeoman/license/)
 
 
