@@ -14,7 +14,7 @@ It is developed for rapid start on new projects.
 
 > Yeoman logo and artwork
 
-[![](https://github.com/yeoman/media/tree/master/optimized/yeoman-600x600.png)](optimized)
+[![](https://github.com/yeoman/media/blob/master/optimized/yeoman-600x600.png)](optimized)
 
 
 ## License
