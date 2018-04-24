@@ -7,8 +7,20 @@ repo: https://github.com/fractus-io/yeoman-tutorial
 tags: yeoman
 ---
 
+
 Yeoman is a generic scaffold which can create of any kind of app for us. 
 It is developed for rapid start on new projects.
+
+
+> Yeoman logo and artwork
+
+[![](https://github.com/yeoman/media/tree/master/optimized/yeoman-600x600.png)](optimized)
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) © Yeoman
+
 
 Scaffolding generally refers to a quickly set up skeleton for an app.  
 
