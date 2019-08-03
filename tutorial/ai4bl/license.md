@@ -1,15 +1,15 @@
 ---
 layout: tutorialpage
 title: License
-permalink: /tutorials/springframework/license/
-path: /tutorials/springframework/
-repo: https://github.com/fractus-io/spring-tutorial
+permalink: /tutorials/ai4bl/license/
+path: /tutorials/ai4bl/
+repo: https://github.com/fractus-io/ai4bl
 tags: license
 ---
 
 The MIT License
 
-Copyright (c) 2017 Fractus IT d.o.o. [fractus.io](http://fractus.io)
+Copyright (c) 2019 Fractus IT d.o.o. [fractus.io](http://fractus.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
