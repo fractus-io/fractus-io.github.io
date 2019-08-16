@@ -1,7 +1,7 @@
 ---
 layout: tutorialpage
 title: Neural Networks
-permalink: /tutorials/ai4bl/neural-networks
+permalink: /tutorials/ai4bl/why-ai-is-taking-off
 path: /tutorials/ai4bl/
 repo: https://github.com/fractus-io/ai4bl
 tags: Neural Networks 
