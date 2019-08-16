@@ -1,7 +1,7 @@
 ---
 layout: tutorialpage
 title: big-companies-and-ai
-permalink: /tutorials/ai4bl/the-godfathers-of-ai
+permalink: /tutorials/ai4bl/big-companies-and-ai
 path: /tutorials/ai4bl/
 repo: https://github.com/fractus-io/ai4bl
 tags: big companies,AI
