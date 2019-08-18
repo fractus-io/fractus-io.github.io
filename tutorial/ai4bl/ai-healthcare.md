@@ -1,7 +1,7 @@
 ---
 layout: tutorialpage
 title: Using AI in Healthcare
-permalink: /tutorials/ai4bl/ai-media
+permalink: /tutorials/ai4bl/ai-healthcare
 path: /tutorials/ai4bl/
 repo: https://github.com/fractus-io/ai4bl
 tags: ai, healthcare
