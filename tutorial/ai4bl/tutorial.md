@@ -35,4 +35,15 @@ Table of Contents
 
 #### How AI is changing industry
 
+* [Using Data and AI in Telecoms](/tutorials/ai4bl/ai-telecoms)
+* [Using AI in Media](/tutorials/ai4bl/ai-media)
+* [Using AI in Healthcare](/tutorials/ai4bl/ai-healthcare)
+* [AI in Agriculture](/tutorials/ai4bl/ai-agriculture)
+* [AI in Manufacturing](/tutorials/ai4bl/ai-manufacturing)
+* [AI in Retail](/tutorials/ai4bl/ai-retail)
+* [AI in Transportation](/tutorials/ai4bl/ai-Transportation)
+* [How AI is changing the travel industry](/tutorials/ai4bl/ai-travel)
+* [How can IoT AI assist in improving life quality for people with special needs](/tutorials/ai4bl/iot-ai)
+
+
 * [Appendix A: Copyright and License](/tutorials/ai4bl/license/)
