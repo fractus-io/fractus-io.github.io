@@ -8,12 +8,6 @@ tags: ai, travel
 ---
 
 * [Introduction](#Introduction)
-* [Autonomous/Driverless Vehicles](#AutonomousDriverlessVehicles)
-* [Traffic Management](#TrafficManagement)
-* [Drones](#Drones)
-* [Air Travel](#AirTravel)
-
-
 * [Chatbots and virtual assistants](#ChatbotsAndVirtualAssistants)
 * [Connie](#Connie)
 * [Recommendations](#Recommendations)

@@ -42,8 +42,9 @@ Table of Contents
 * [AI in Manufacturing](/tutorials/ai4bl/ai-manufacturing)
 * [AI in Retail](/tutorials/ai4bl/ai-retail)
 * [AI in Transportation](/tutorials/ai4bl/ai-Transportation)
+* [AI in Finance](/tutorials/ai4bl/ai-finance)
 * [How AI is changing the travel industry](/tutorials/ai4bl/ai-travel)
-* [How can IoT AI assist in improving life quality for people with special needs](/tutorials/ai4bl/iot-ai)
+* [How can IoT AI assist in improving life quality for people with special needs](/tutorials/ai4bl/ai-iot)
 
 
 * [Appendix A: Copyright and License](/tutorials/ai4bl/license/)
