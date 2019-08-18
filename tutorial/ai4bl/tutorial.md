@@ -29,4 +29,10 @@ Table of Contents
 * [The AI Startups Scene](/tutorials/ai4bl/the-ai-startups-scene)
 * [Autonomous Drive and AI](/tutorials/ai4bl/autonomous-drive-and-ai)
 
+#### AI Use Cases
+
+* [Computer Vision](/tutorials/ai4bl/computer-vision)
+
+#### How AI is changing industry
+
 * [Appendix A: Copyright and License](/tutorials/ai4bl/license/)
