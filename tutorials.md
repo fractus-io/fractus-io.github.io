@@ -9,4 +9,6 @@ tags: tutorial
 * [SpringFramework Tutorial](https://fractus-io.github.io/tutorials/springframework/)
 * [Akka Tutorial](https://fractus-io.github.io/tutorials/akka/)
 * [Yeoman Tutorial](https://fractus-io.github.io/tutorials/yeoman/)
+* [Data Structures](https://fractus-io.github.io/tutorials/datastructures/)
+
 
